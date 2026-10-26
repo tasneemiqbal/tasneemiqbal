@@ -12,7 +12,7 @@
 
 ---
 
-## 💁‍♀️ About Me
+## About Me
 
 - 💼 **Product Manager** at **Develop For Good**
 - 📸 Previously **Product Manager Extern** at **BeReal**
